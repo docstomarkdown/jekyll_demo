@@ -5,6 +5,6 @@ Thisa
 
 ## Subheading 1
 
-![alt text]({{ site.url }}//_assets/image_1.jpg)
+![alt text](/_assets/image_1.jpg)
 
 Image will be displayed from GitHub
