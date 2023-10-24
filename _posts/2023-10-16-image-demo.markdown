@@ -9,6 +9,11 @@ Thisa
 
 Image will be displayed from GitHub
 
+<figure>
+  <img src="https://d30fizhqzdcokh.cloudfront.net/1so-large-body-water-fence-around.jpeg" alt="Image alt Description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
 
 The following images is with hardcoded width. 
 
