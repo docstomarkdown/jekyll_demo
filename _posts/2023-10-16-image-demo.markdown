@@ -5,7 +5,7 @@ Thisa
 
 ## Subheading 1
 
-![alt text]({{ site.baseurl }}/_assets/image_1.jpg)
+![alt text]({{ site.baseurl }}/_assets/image_1.jpg "ice cream image caption")
 
 Image will be displayed from GitHub
 
